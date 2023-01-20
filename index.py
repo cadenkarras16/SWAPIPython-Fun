@@ -1,3 +1,10 @@
+#Caden
+
+#I am just having fun with this API trying out API work
+#currently just has the search functionality to search 17 rows of people. 
+# When I get more time I will fix the issue where the number 17 API call returns a 404 error.
+#  We will need to skip over that.
+
 import requests
 
 #print(data)
